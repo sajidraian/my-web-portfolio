@@ -1,6 +1,6 @@
 # 🌐 My Web Portfolio
 
-A clean and responsive personal portfolio website built using **HTML5** and **CSS3** as part of my Programming Hero Web Development journey.
+A clean and responsive personal portfolio website built using **HTML5** and **CSS3** as part of my  Web Development journey.
 
 ## 🚀 Live Demo
 
