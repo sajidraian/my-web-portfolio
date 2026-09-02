@@ -9,17 +9,43 @@
   </a>
 </p>
 
+<p align="center">
+  A clean, modern, and responsive personal portfolio website built with HTML5 and CSS3.
+</p>
+
+---
+
 ## 📌 Overview
 
-**My Web Portfolio** is a clean, modern, and responsive personal portfolio website created to showcase my profile, skills, projects, experience, and contact information.
+**My Web Portfolio** is a clean, modern, and responsive personal portfolio website designed to showcase my profile, skills, projects, experience, and contact information.
 
-The website is built with **HTML5 and CSS3**, with a strong focus on responsive design, clean layouts, user-friendly navigation, and modern UI practices.
+The portfolio focuses on creating a simple and professional user experience while maintaining compatibility across mobile, tablet, laptop, and desktop devices.
+
+### 🎯 Project Highlights
+
+- 🎨 Clean and modern user interface
+- 📱 Fully responsive design
+- 🧭 User-friendly navigation
+- 💻 Mobile, tablet, laptop, and desktop support
+- ✨ Smooth hover effects and animations
+- 📐 Flexible layouts using Flexbox and CSS Grid
+- 💼 Project showcase
+- 📄 Resume and experience section
+- 📬 Contact section
+- 🔗 Social media integration
 
 ---
 
 ## 🚀 Live Demo
 
+<p align="center">
+  <a href="https://sajidraian.github.io/my-web-portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Website-blue?style=for-the-badge" alt="Visit Live Website">
+  </a>
+</p>
+
 🌐 **Live Website:**
+
 https://sajidraian.github.io/my-web-portfolio/
 
 ---
@@ -27,25 +53,59 @@ https://sajidraian.github.io/my-web-portfolio/
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="./images/screenshots/portfolio-preview.png" alt="My Web Portfolio Preview" width="850">
+  <img src="./images/portfolio-preview.png" alt="My Web Portfolio Preview" width="850">
 </p>
 
 ---
 
 ## ✨ Features
 
-* 📱 Fully responsive design
-* 🧭 Responsive navigation bar
-* 👋 Hero section with personal introduction
-* 👨‍💻 About Me section
-* 🛠️ What I Do section
-* 📄 Resume / experience section
-* 💼 Project showcase
-* 📬 Contact section
-* 🔗 Social media links
-* 🎨 Clean and modern user interface
-* ✨ Hover effects and interactive elements
-* 📐 Responsive layouts using Flexbox and CSS Grid
+### 👋 Hero Section
+
+- Personal introduction
+- Professional profile
+- Call-to-action elements
+- Responsive layout
+
+### 👨‍💻 About Me
+
+- Personal information
+- Skills and interests
+- Professional introduction
+
+### 🛠️ What I Do
+
+- Overview of technical skills
+- Services and capabilities
+- Development-focused sections
+
+### 📄 Resume & Experience
+
+- Education and experience
+- Professional background
+- Skills and qualifications
+
+### 💼 Projects
+
+- Featured projects
+- Project descriptions
+- Project images
+- Links to projects
+
+### 📬 Contact
+
+- Contact information
+- Social media links
+- Easy access for communication
+
+### 📱 Responsive Design
+
+The website adapts to different screen sizes, including:
+
+- 📱 Mobile phones
+- 📱 Tablets
+- 💻 Laptops
+- 🖥️ Desktop computers
 
 ---
 
@@ -56,16 +116,19 @@ https://sajidraian.github.io/my-web-portfolio/
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Flexbox-Layout-orange?style=for-the-badge" alt="Flexbox">
   <img src="https://img.shields.io/badge/CSS%20Grid-Layout-blueviolet?style=for-the-badge" alt="CSS Grid">
+  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge" alt="Responsive Design">
 </p>
 
-### Main Technologies
+### Core Technologies
 
-* **HTML5** — Website structure and semantic markup
-* **CSS3** — Styling and visual design
-* **Flexbox** — Flexible and responsive layouts
-* **CSS Grid** — Structured page layouts
-* **Google Fonts** — Typography
-* **Responsive Design** — Mobile, tablet, and desktop support
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Website structure and semantic markup |
+| **CSS3** | Styling, animations, and visual design |
+| **Flexbox** | Flexible responsive layouts |
+| **CSS Grid** | Structured page layouts |
+| **Google Fonts** | Modern typography |
+| **Responsive Design** | Support for different screen sizes |
 
 ---
 
@@ -77,93 +140,13 @@ my-web-portfolio/
 ├── images/
 │   ├── icons/
 │   ├── projects/
-│   ├── screenshots/
-│   │   └── portfolio-preview.png
-│   └── hardy.png
+│   ├── developer.png
+│   ├── hardy.png
+│   ├── header_bg.png
+│   ├── portfolio-preview.png
+│   └── raian.png
 │
+├── command.txt
 ├── index.html
-├── style.css
-└── README.md
-```
-
----
-
-## 💡 What I Learned
-
-While building this portfolio, I practiced and improved my understanding of:
-
-* Semantic HTML
-* CSS Flexbox
-* CSS Grid
-* Responsive web design
-* CSS positioning
-* Hover effects
-* Buttons and cards
-* Portfolio layout design
-* Website section organization
-* Git and GitHub
-* GitHub Pages deployment
-
----
-
-## ⚙️ Run Locally
-
-Follow these steps to run the project on your local machine.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/sajidraian/my-web-portfolio.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd my-web-portfolio
-```
-
-### 3. Run the project
-
-This is a static HTML/CSS project, so no package installation is required.
-
-Simply open `index.html` in your browser.
-
-For a better development experience, you can use the **Live Server** extension in VS Code.
-
----
-
-## 🌍 Deployment
-
-This project is deployed using **GitHub Pages**.
-
-🔗 **Live Website:**
-https://sajidraian.github.io/my-web-portfolio/
-
----
-
-## 🔗 Relevant Links
-
-* 🌐 **Live Demo:** https://sajidraian.github.io/my-web-portfolio/
-* 💻 **GitHub Repository:** https://github.com/sajidraian/my-web-portfolio
-
----
-
-## 👨‍💻 Author
-
-### Sajid Al Raian
-
-Frontend / Web Developer
-
-* 🐙 GitHub: https://github.com/sajidraian
-* 💼 LinkedIn: https://www.linkedin.com/in/sajid-al-raian
-* 📧 Email: [sajidraian12511010.cse@gmail.com](mailto:sajidraian12511010.cse@gmail.com)
-
----
-
-## 📄 License
-
-This project was created for personal portfolio and educational purposes.
-
----
-
-⭐ **If you like this project, consider giving it a star!**
+├── README.md
+└── style.css
