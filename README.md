@@ -1,45 +1,84 @@
 # 🌐 My Web Portfolio
 
-A clean and responsive personal portfolio website built using **HTML5** and **CSS3** as part of my  Web Development journey.
+<p align="center">
+  <a href="https://sajidraian.github.io/my-web-portfolio/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/sajidraian/my-web-portfolio">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+</p>
+
+## 📌 Overview
+
+**My Web Portfolio** is a clean, modern, and responsive personal portfolio website created to showcase my profile, skills, projects, experience, and contact information.
+
+The website is built with **HTML5 and CSS3**, with a strong focus on responsive design, clean layouts, user-friendly navigation, and modern UI practices.
+
+---
 
 ## 🚀 Live Demo
 
-👉 https://sajidraian.github.io/my-web-portfolio/
+🌐 **Live Website:**
+https://sajidraian.github.io/my-web-portfolio/
 
-## 📸 Preview
+---
 
-<!-- Add a screenshot later if you want -->
-<!-- ![Portfolio Preview](images/preview.png) -->
+## 📸 Project Preview
+
+<p align="center">
+  <img src="./images/screenshots/portfolio-preview.png" alt="My Web Portfolio Preview" width="850">
+</p>
+
+---
 
 ## ✨ Features
 
-- Responsive Navigation Bar
-- Hero Section
-- About Me Section
-- What I Do Section
-- Resume Summary
-- My Amazing Works (Projects)
-- Contact Form
-- Social Media Links
-- Responsive Layout
+* 📱 Fully responsive design
+* 🧭 Responsive navigation bar
+* 👋 Hero section with personal introduction
+* 👨‍💻 About Me section
+* 🛠️ What I Do section
+* 📄 Resume / experience section
+* 💼 Project showcase
+* 📬 Contact section
+* 🔗 Social media links
+* 🎨 Clean and modern user interface
+* ✨ Hover effects and interactive elements
+* 📐 Responsive layouts using Flexbox and CSS Grid
+
+---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
-- Responsive Design
-- Google Fonts
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Flexbox-Layout-orange?style=for-the-badge" alt="Flexbox">
+  <img src="https://img.shields.io/badge/CSS%20Grid-Layout-blueviolet?style=for-the-badge" alt="CSS Grid">
+</p>
 
-## 📁 Project Structure
+### Main Technologies
 
-```
+* **HTML5** — Website structure and semantic markup
+* **CSS3** — Styling and visual design
+* **Flexbox** — Flexible and responsive layouts
+* **CSS Grid** — Structured page layouts
+* **Google Fonts** — Typography
+* **Responsive Design** — Mobile, tablet, and desktop support
+
+---
+
+## 📂 Project Structure
+
+```text
 my-web-portfolio/
 │
 ├── images/
 │   ├── icons/
 │   ├── projects/
+│   ├── screenshots/
+│   │   └── portfolio-preview.png
 │   └── hardy.png
 │
 ├── index.html
@@ -47,28 +86,84 @@ my-web-portfolio/
 └── README.md
 ```
 
-## 📚 What I Learned
+---
 
-During this project I practiced:
+## 💡 What I Learned
 
-- Semantic HTML
-- CSS Flexbox
-- CSS Grid
-- Responsive Design
-- Positioning
-- Hover Effects
-- Buttons & Cards
-- Portfolio Layout Design
-- Git & GitHub
+While building this portfolio, I practiced and improved my understanding of:
 
-## 📬 Contact
-
-**Name:** Sajid Al Raian
-
-- GitHub: https://github.com/sajidraian
-- LinkedIn: https://www.linkedin.com/in/sajid-al-raian
-- Email: sajidraian12511010.cse@gmail.com
+* Semantic HTML
+* CSS Flexbox
+* CSS Grid
+* Responsive web design
+* CSS positioning
+* Hover effects
+* Buttons and cards
+* Portfolio layout design
+* Website section organization
+* Git and GitHub
+* GitHub Pages deployment
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+## ⚙️ Run Locally
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sajidraian/my-web-portfolio.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd my-web-portfolio
+```
+
+### 3. Run the project
+
+This is a static HTML/CSS project, so no package installation is required.
+
+Simply open `index.html` in your browser.
+
+For a better development experience, you can use the **Live Server** extension in VS Code.
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+🔗 **Live Website:**
+https://sajidraian.github.io/my-web-portfolio/
+
+---
+
+## 🔗 Relevant Links
+
+* 🌐 **Live Demo:** https://sajidraian.github.io/my-web-portfolio/
+* 💻 **GitHub Repository:** https://github.com/sajidraian/my-web-portfolio
+
+---
+
+## 👨‍💻 Author
+
+### Sajid Al Raian
+
+Frontend / Web Developer
+
+* 🐙 GitHub: https://github.com/sajidraian
+* 💼 LinkedIn: https://www.linkedin.com/in/sajid-al-raian
+* 📧 Email: [sajidraian12511010.cse@gmail.com](mailto:sajidraian12511010.cse@gmail.com)
+
+---
+
+## 📄 License
+
+This project was created for personal portfolio and educational purposes.
+
+---
+
+⭐ **If you like this project, consider giving it a star!**
